@@ -1,5 +1,4 @@
-puppet-wso2greg
-===============
+# wso2greg #
 
 This is the wso2greg module. It manages the WSO2 Governance Registry component.
 

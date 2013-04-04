@@ -1,0 +1,36 @@
+{
+  "name": "gioppoluca-wso2greg",
+  "author": "Luca Gioppo",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "86605d2e906668bd68b0e9b917a07cb1",
+    "README.markdown": "01d43a5d97249afb5902f2d600283604",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files\\mysql-connector-java-5.1.22-bin.jar": "2c069d69928c75cd28172fd33772a1db",
+    "manifests\\init.pp": "356157e5eeb882a28f7ac6be9042ee61",
+    "manifests\\params.pp": "f8c1b2c35d14e5d9c685b8297643811d",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "templates\\4.5.1\\master-datasources.xml.erb": "52d87d25b2093364d546286c2821e00a",
+    "templates\\4.5.1\\registry.xml.erb": "1cf740fe908d4042708039ad3eb020c4",
+    "templates\\4.5.1\\user-mgt.xml.erb": "1298b481a433ed18b66622fb8ab91cd9",
+    "templates\\4.5.2\\master-datasources.xml.erb": "65f6aad5d4ee517ab807df277a97f076",
+    "templates\\4.5.2\\registry.xml.erb": "1cf740fe908d4042708039ad3eb020c4",
+    "templates\\4.5.2\\user-mgt.xml.erb": "b893f8dcb64e50d68c8848cf929d8a46",
+    "templates\\4.5.3\\master-datasources.xml.erb": "1f06226bda830ff844a66f8c37a69b05",
+    "templates\\4.5.3\\registry.xml.erb": "1cf740fe908d4042708039ad3eb020c4",
+    "templates\\4.5.3\\user-mgt.xml.erb": "041784332e6ee037468dfd7ab088a0ce",
+    "tests\\init.pp": "481ab89ae1409786db80fd24e0a2ec3d"
+  },
+  "dependencies": [
+    {
+      "name": "puppetlabs/mysql",
+      "version_requirement": "\u003e\u003d0.5.0"
+    }
+  ]
+}
