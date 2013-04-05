@@ -22,13 +22,13 @@
 class wso2greg::params {
 $db_type            = "h2"
   $db_host            = "wso2mysql.$::domain"
-  $db_name            = 'odaiapi'
-  $db_user            = 'odaiapi'
-  $db_password        = 'odaiapi1'
+  $db_name            = 'odaigreg'
+  $db_user            = 'odaiagreg'
+  $db_password        = 'odaigreg1'
   $db_tag        = 'greg_db'
   $port_offset        = 0
   $download_site      = 'http://dist.wso2.org/products/governance-registry/'
-  $product_name       = 'wso2am'
+  $product_name       = 'wso2greg'
   $admin_password       = 'odaiadmin1'
   
 }
