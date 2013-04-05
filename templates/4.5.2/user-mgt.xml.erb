@@ -20,7 +20,7 @@
                 <AdminRole>admin</AdminRole>
                 <AdminUser>
                      <UserName>admin</UserName>
-                     <Password><%= scope.lookupvar('odaigreg::admin_password') %></Password>
+                     <Password><%= scope.lookupvar('wso2greg::admin_password') %></Password>
                 </AdminUser>
             <EveryOneRoleName>everyone</EveryOneRoleName> <!-- By default users in this role sees the registry root -->
             <Property name="dataSource">jdbc/WSO2CarbonDB</Property>

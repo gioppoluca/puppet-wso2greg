@@ -14,9 +14,9 @@
             </jndiConfig>
             <definition type="RDBMS">
                 <configuration>
-                    <url>jdbc:mysql://<%= scope.lookupvar('odaigreg::db_host') %>:3306/<%= scope.lookupvar('odaigreg::db_name') %></url>
-                    <username><%= scope.lookupvar('odaigreg::db_user') %></username>
-                    <password><%= scope.lookupvar('odaigreg::db_password') %></password>
+                    <url>jdbc:mysql://<%= scope.lookupvar('wso2greg::db_host') %>:3306/<%= scope.lookupvar('wso2greg::db_name') %></url>
+                    <username><%= scope.lookupvar('wso2greg::db_user') %></username>
+                    <password><%= scope.lookupvar('wso2greg::db_password') %></password>
                     <driverClassName>com.mysql.jdbc.Driver</driverClassName>
                     <maxActive>80</maxActive>
                     <maxWait>60000</maxWait>
