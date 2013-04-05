@@ -1,5 +1,5 @@
 name 'gioppoluca-wso2greg'
-version '0.0.1'
+version '0.0.2'
 
 author 'Luca Gioppo'
 license ''
