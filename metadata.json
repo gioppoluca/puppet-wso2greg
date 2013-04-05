@@ -23,9 +23,9 @@
     "templates\\4.5.2\\master-datasources.xml.erb": "65f6aad5d4ee517ab807df277a97f076",
     "templates\\4.5.2\\registry.xml.erb": "f5955e4289b26edb82748ba13f3421d1",
     "templates\\4.5.2\\user-mgt.xml.erb": "b893f8dcb64e50d68c8848cf929d8a46",
-    "templates\\4.5.3\\master-datasources.xml.erb": "1f06226bda830ff844a66f8c37a69b05",
+    "templates\\4.5.3\\master-datasources.xml.erb": "2b3b86d05d37f3ed1fb49ab3047dc978",
     "templates\\4.5.3\\registry.xml.erb": "f5955e4289b26edb82748ba13f3421d1",
-    "templates\\4.5.3\\user-mgt.xml.erb": "041784332e6ee037468dfd7ab088a0ce",
+    "templates\\4.5.3\\user-mgt.xml.erb": "0161fd9e223107709bf657eba07a4544",
     "tests\\init.pp": "481ab89ae1409786db80fd24e0a2ec3d"
   },
   "dependencies": [
